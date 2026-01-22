@@ -1,6 +1,7 @@
 # Diogo 👋
 
-Computer Science student at PUCRS.
+Computer Science student @ PUCRS.
+Software Engineer @ Preto no Branco
 
 ## Interests
 - Software engineering
