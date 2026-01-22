@@ -1,16 +1,13 @@
-## Hi there 👋
+# Diogo 👋
 
-<!--
-**DiogoTeixeiraDEV/DiogoTeixeiraDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at PUCRS.
 
-Here are some ideas to get you started:
+## Interests
+- Software engineering
+- Systems & low-level programming
+- Performance and optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+- C#, Rust, Python, SQL
+- .NET, Docker, REST APIs
+- PostgreSQL, SQLite
